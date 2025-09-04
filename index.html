@@ -429,7 +429,7 @@
                 <div class="upload-area" id="uploadArea">
                     <div class="upload-icon">📁</div>
                     <div class="upload-text">Drop your file here or click to browse</div>
-                    <div class="upload-subtext">Maximum file size: 100MB</div>
+                    <div class="upload-subtext">Maximum file size: 50MB</div>
                     <input type="file" class="file-input" id="fileInput">
                 </div>
 
@@ -525,7 +525,7 @@ Supports both formats:
         const error1 = document.getElementById('error1');
         const success1 = document.getElementById('success1');
 
-        const MAX_FILE_SIZE = 100 * 1024 * 1024; // 100MB in bytes
+        const MAX_FILE_SIZE = 50 * 1024 * 1024; // 50MB in bytes
 
         // Upload area events
         uploadArea.addEventListener('click', () => fileInput.click());
@@ -592,7 +592,7 @@ Supports both formats:
 
             // Check file size
             if (file.size > MAX_FILE_SIZE) {
-                showError1(`File size (${formatFileSize(file.size)}) exceeds the 100MB limit.`);
+                showError1(`File size (${formatFileSize(file.size)}) exceeds the 50MB limit.`);
                 return;
             }
 
