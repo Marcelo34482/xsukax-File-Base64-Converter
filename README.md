@@ -2,7 +2,7 @@
 
 [![Privacy](https://img.shields.io/badge/Privacy-100%25%20Client--Side-green)](https://github.com)
 [![No Dependencies](https://img.shields.io/badge/Dependencies-Zero-brightgreen)](https://github.com)
-[![File Size Limit](https://img.shields.io/badge/Max%20File%20Size-100MB-orange)](https://github.com)
+[![File Size Limit](https://img.shields.io/badge/Max%20File%20Size-50MB-orange)](https://github.com)
 
 A secure, privacy-focused web application for converting files to Base64 encoding and back. All processing happens directly in your browser - your files never leave your device.
 
