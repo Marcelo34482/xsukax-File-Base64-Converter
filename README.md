@@ -20,7 +20,7 @@ A secure, privacy-focused web application for converting files to Base64 encodin
 
 ### ⚡ **Performance & Convenience**
 - **Instant Conversion**: No waiting for server responses
-- **Large File Support**: Handle files up to 100MB
+- **Large File Support**: Handle files up to 50MB
 - **Drag & Drop Interface**: Simply drop your files to convert
 - **Progress Tracking**: Visual feedback for large file processing
 - **One-Click Copy**: Easy clipboard integration for Base64 strings
@@ -153,7 +153,7 @@ The converter supports **150+ file formats** including:
 
 | Feature | Specification |
 |---------|--------------|
-| Max File Size | 100 MB |
+| Max File Size | 50 MB |
 | Encoding Method | Base64 (RFC 4648) |
 | Browser Compatibility | All modern browsers (Chrome, Firefox, Safari, Edge) |
 | JavaScript Required | Yes |
@@ -275,7 +275,7 @@ This project is licensed under the GNU General Public License v3.0 - see the LIC
 
 ## ⚠️ Limitations
 
-- Maximum file size: 100MB (browser memory constraints)
+- Maximum file size: 50MB (browser memory constraints)
 - Requires JavaScript enabled in browser
 - Large files may take time to process depending on device performance
 
